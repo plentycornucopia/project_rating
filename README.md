@@ -1,7 +1,9 @@
 # Project: Rating
+
+## Description of Project
 We need a PHP solution to parse this HTML file uploaded by our family members. Each file will follow the same format, but the number of records inside may vary. Parsed data will be saved into a PostgreSQL database.
 
-Requirements:
+## Requirements
 * validate file size
 * validate by HTML MIME type
 * temporary storage can be used but must be terminated after successful storage
