@@ -21,13 +21,13 @@ We need to store all **rating** records on our personal budget from month to mon
 BR54898847|05/23/2024|Credit Score|583|606|604|
 BR54898847|05/23/2024|Lender Rank|Unfavorable|Fair|Fair|
 BR54898847|05/23/2024|Score Scale|300-850|300-850|300-850|
-BR54898847|05/23/2024|Risk Factors|The date that you opened your oldest account is too recent Your oldest account is still too recent. A credit file containing older accounts will have a positive impact on your credit score because it demonstrates that you are experienced managing credit.
+BR54898847|05/23/2024|Risk Factors|`The date that you opened your oldest account is too recent Your oldest account is still too recent. A credit file containing older accounts will have a positive impact on your credit score because it demonstrates that you are experienced managing credit.
 You have too many collection agency accounts that are unpaid Some collection agencies report account information to credit bureaus just like lenders do. Your credit file has too many accounts that have been sent to a collection agency and remain unpaid. Unpaid collection accounts in your file can have a significant negative impact on your credit score.
 You have too many delinquent or derogatory accounts You have had too many accounts with payments that are at least 30 days late and/or on which a lender has reported a derogatory status. Late payments are a proven indicator of increased risk. People with late payments are at risk of being overextended, putting existing credit with lenders at risk.
-Lack of sufficient relevant real estate account information A real estate loan can be a first mortgage, a home equity loan, or home equity line of credit. The VantageScore credit score model relies on information in your credit files at the three national credit reporting companies (AtlantaGA, AllenTX and ChesterPA) to generate your score. Your credit file does not contain enough credit behavior information about your real estate accounts. A mix of different types of open and active credit accounts, including real estate loans, can have a positive impact on your credit score.|The date that you opened your oldest account is too recent
+Lack of sufficient relevant real estate account information A real estate loan can be a first mortgage, a home equity loan, or home equity line of credit. The VantageScore credit score model relies on information in your credit files at the three national credit reporting companies (AtlantaGA, AllenTX and ChesterPA) to generate your score. Your credit file does not contain enough credit behavior information about your real estate accounts. A mix of different types of open and active credit accounts, including real estate loans, can have a positive impact on your credit score.`|`The date that you opened your oldest account is too recent
 You have too many collection agency accounts that are unpaid
 You have too many delinquent or derogatory accounts
-The total of your delinquent or derogatory account balances is too high|BLANK|
+The total of your delinquent or derogatory account balances is too high`|`BLANK`|
 
 ## Table Selector
 `#CreditScore > table.re-even-odd.rpt_content_table.rpt_content_header.rpt_table4column`
