@@ -16,7 +16,7 @@ We need to store all **rating** records on our personal budget from month to mon
 
 ***postgres db available upon request
 
-![Table Appears in HTML](https://github.com/plentycornucopia/project_rating/blob/default/file to be parsed - rating.png?raw=true "Table Appears in HTML")
+![Table Appears in HTML](https://github.com/plentycornucopia/project_rating/blob/default/file%20to%20be%20parsed%20-%20rating.png?raw=true "Table Appears in HTML")
 
 |Reference|Report Date|Type|ChesterPA|AllenTX|AtlantaGA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
