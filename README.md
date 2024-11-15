@@ -16,8 +16,10 @@ We need to store all **rating** records on our personal budget from month to mon
 
 ***postgres db available upon request
 
+## Table Example
 ![Table Appears in HTML](file%20to%20be%20parsed%20-%20rating.png?raw=true "Table Appears in HTML")
 
+## Schema
 |Reference|Report Date|Type|ChesterPA|AllenTX|AtlantaGA|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 BR54898847|05/23/2024|Credit Score|583|606|604|
