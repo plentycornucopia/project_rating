@@ -3,7 +3,7 @@ Project: Rating
 
 We need to store all **rating** records on our personal budget from month to month. We want to store them in a Postgres DB with the following column structure:
 
-|Reference|Report Date|ChesterPA|AllenTX|AtlantaGA|
+|Reference|Report Date|Type|ChesterPA|AllenTX|AtlantaGA|
 |:-:|:-:|:-:|:-:|:-:|
 |*VARCHAR(9)|*MM/DD/YYYY|VARCHAR(255)|VARCHAR(255)|VARCHAR(255)|
 
